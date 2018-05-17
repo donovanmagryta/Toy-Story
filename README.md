@@ -1,2 +1,2 @@
 # toystory
-Fainting Animatronic like in Disney PIXAR's "Toy Story"
+Fainting Animatronic like in Disney Pixar's "Toy Story"
